@@ -25,7 +25,8 @@ header {
 header img {
 	width: 100px;
 	position: absolute;
-	left: calc(50% - 50px);
+	left: 50%;
+	margin-left: -50px;
 }
 
 
