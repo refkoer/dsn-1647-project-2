@@ -23,27 +23,37 @@ header {
 }
 
 header img {
-	width: 65px;
+	width: 100px;
 	position: absolute;
-	left: calc(50% - 32.5px);
+	left: calc(50% - 50px);
 }
 
 
 header h1 {
+	width: 100%;
+	font-size: 40pt;
 	margin: 0;
-  position: relative;
-  text-shadow: 1px 1px 5px black;
+ 	position: relative;
+ 	text-shadow: 1px 1px 5px black;
 }
 
 
 header p {
-	font-size: 10px;
-  position: relative;
-  top: 3px;
-  margin: 0;
-  text-shadow: 1px 1px 5px black;
+	font-size: 15px;
+	font-weight: bolder;
+ 	position: relative;
+ 	top: 3px;
+ 	margin: 0;
+ 	padding-bottom: 1em;
+ 	text-shadow: 1px 1px 5px black;
 }
 
+.medal{
+	xwidth: 100px;
+
+
+	
+}
 
 .banner{
 
@@ -55,6 +65,7 @@ header p {
 
 .banner img{
 	width: 100%;
+
 }
 
 
